@@ -1,0 +1,13 @@
+{
+    "name": "Flowers",
+    "start_url": "/flowers",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/imagem.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
